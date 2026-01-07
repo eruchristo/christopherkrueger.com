@@ -1,6 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
 FN:Kyan Krueger
-TEL;TYPE=cell:+12102027292
+N:Krueger;Kyan;
+TEL;TYPE=cell:+1 (210) 202-7292
 EMAIL:thairamenkai@gmail.com
+CLASS:private
+NOTE:In case of emergency call Melanie (210) 862-1356
 END:VCARD
